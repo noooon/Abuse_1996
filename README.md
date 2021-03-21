@@ -4,6 +4,8 @@ Abuse README
 This is a fork of the Abuse SDL2 port from http://github.com/Xenoveritas/abuse,
 which itself is a fork of the Abuse SDL port from http://abuse.zoy.org.
 
+I haven't decided what I'm going to do with this yet, I just feel like playing around with "modernising" a old project, for shits and/or giggles.
+
 --------
 
 1. Introduction
